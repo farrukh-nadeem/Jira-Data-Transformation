@@ -17,7 +17,7 @@ Built ETL pipelines + Looker Studio dashboards to replace manual tracking,  enab
 
 **3. Solution**
 
-    1. For Data Extraction I used **Jira Cloud for sheets** extension to pull tickets (status, assignee, ticket history etc.,)
+    1. For Data Extraction I used Jira Cloud for sheets extension to pull tickets (status, assignee, ticket history etc.,)
     2. To establish Data Pipeline I automated daily sync to Google Sheets using Jira Cloud for sheets extension
     3. Defined Taxonomy Design and created unified ticket labels/stages (e.g., "Blocked/Needs Rework") through Jira Scheme Designer
     4. Designed Dashboards to build 3 real-time reports: Sprint Health, Workflow efficiency, Strengths & Weaknesses using Looker Studio
@@ -37,12 +37,12 @@ bottlenecks regularly." - Hadil AL-Sewaiee - Testing Team Lead at Fresh Futures
 
 **5. Lessons Learned**
  
- + What Worked Well:
++What Worked Well:
 
     1. Standardized taxonomy made cross-team tickets discoverable
     2. Adding components and feature types to tickets along with time spent helped identify key strengths and weaknesses of developers.
 
- ! What I'd Improve Next Time:
+!What I'd Improve Next Time:
  
     1. Add automated alerts when critical tickets stall
     2. Add python script for data transformation to eliminate the remaining need for manual intervention.
@@ -52,12 +52,10 @@ Thank You!
 Thank you for your time and attention today. We hope this presentation offered valuable insights into our Agile transformation 
 journey and its positive impact.
 
- Connect With Me
- 
- Name: Farrukh Nadeem
- 
- Email: fnadeem485@gmail.com
- 
+ **Connect With Me**
+
+ Name: Farrukh Nadeem |
+ Email: fnadeem485@gmail.com |
  Contact No: +92 332 0378871
  
  LinkedIn: https://www.linkedin.com/in/farrukh-nadeem-999b931bb/
